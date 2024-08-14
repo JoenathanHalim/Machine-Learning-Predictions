@@ -1,2 +1,2 @@
-# Machine-Learning-Predictions
+# Machine Learning for Sales Forecasting
 Implementation of linear regression and kNN regression on a marketing data set available in R package "datarium" including information of the advertising budget on YouTube, Facebook, and newspaper, along with the sales based on 200 advertising experiments, to predict the sales units using the amounts of money spent on three medias, and explore the impacts of three advertising medias on the sales.
